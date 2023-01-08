@@ -1,0 +1,154 @@
+*{
+    margin: 0%;
+    font-family: 'Open Sans',
+}
+
+.hed{
+   display: flex;
+   background-image: url(../images/donation1.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   justify-content: center;
+
+}
+.header-type{
+    margin: 175px 310px;
+
+
+}
+#header-title{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 65px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#header-line{
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.button-div{
+    display: flex;
+     justify-content: center;
+
+}
+.btn{
+    background: #FF5959;
+    width: 160px;
+    height: 56px;
+    left: 640px;
+    top: 438px;
+    border-radius: 5px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    border: none;
+
+
+}
+.senond{
+    margin: 130px 375px;
+}
+.head-title{
+    text-align: center;
+    color: #121212;
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 15px;
+
+}
+.head-pra{
+    text-align: center;
+    font-size: 18px;
+    color: #707070;
+    margin-bottom: 45px;
+    
+    
+}
+.head-tk{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 45px;
+
+
+}
+.li{
+    display: flex;
+    text-decoration: none;
+}
+li{
+    display: flex;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    width: 135px;
+    height: 123px;
+    background-color: #f5e7e7;
+    font-size: 30px;
+    font-weight: 700;
+    color:  #707070;
+    border-radius: 5px;
+}
+.other-tk{
+    text-align: center;
+    font-size: 18px;
+    color: #B3B3B3;
+}
+.other-amo{
+    margin-bottom: 10px;
+}
+#li{
+    color: #FF5959;
+}
+#li-{
+    color: #FF5959;
+    box-sizing: border-box;
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+
+}
+.section-third{
+    margin: 130px 375px;
+}
+.head-2{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 700;
+    font-family: 'Inter';
+    font-style: normal;
+    
+}
+.donate-third-p{
+  text-align: center;
+  color: #707070;
+  font-size: 18px;
+  margin: 20px;
+}
+.food-dsng{
+    display: flex;
+    margin: 50px 50px;
+    
+}
+.food-desing{
+    padding: 30px 22px 55px;
+    margin: auto;
+    background-color: #4f9da65e;
+    
+}
+.imag{
+    margin: 0 0 50px 0;
+    width: 58.13px;
+    height: 50px;
+    font-size: 24px;
+    font-weight: 600;
+}
+.food-main{
+    background: rgba(79, 157, 166, 0.1);
+    border: 50px;
+
+}
